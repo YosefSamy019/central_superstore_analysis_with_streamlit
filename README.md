@@ -91,3 +91,10 @@ The dataset consists of *2323 records* and *21 columns*, covering:
 * Customer ordering behavior.
 * Shipping methods distribution.
 * Annual trends in sales and profit.
+
+---
+
+## 🚀 Live Demo
+
+Check out the live app here:  
+👉 [Central Superstore Analysis App](https://centralsuperstoreanalysiswithapp-edcsv9vamdcchfiemzsqve.streamlit.app/)
